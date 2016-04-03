@@ -23,3 +23,18 @@ margin:10px 10px;
 background: #0000b3;
 border: #0000b3;
 }
+
+.btn-cards {
+background: white;
+color : #000099;
+border: 1px solid #000099;
+border-radius: 4px;
+padding: 15px 25px;
+margin-top: 25px;
+margin-bottom: 20px;
+}
+
+.btn-cards:hover {
+background: #0000b3;
+border: 1px solid #0000b3;
+}
