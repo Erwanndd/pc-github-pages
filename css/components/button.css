@@ -40,3 +40,7 @@ margin-bottom: 20px;
 background: #0000b3;
 border: 1px solid #0000b3;
 }
+
+.btn-center {
+text-align: center;
+}
