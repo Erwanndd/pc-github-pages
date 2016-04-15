@@ -3,6 +3,10 @@ margin-top: 25px;
 margin-bottom: 25px;
 }
 
+.cards h2{
+font-size: 25px;
+}
+
 .card {
   position: relative;
   height: 250px;
@@ -14,15 +18,36 @@ margin-bottom: 25px;
 .card-user {
   position: absolute;
   top: 10px;
-  right: 10px;
+  left: 10px;
 }
 .card-category {
   position: absolute;
   top: 10px;
-  left: 10px;
+  left: 70px;
 }
+
+.card-category p {
+margin-top: 15px;
+}
+
 .card-description {
   position: absolute;
   bottom: 10px;
   left: 10px;
+}
+
+.card-links {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  font-size: 25px;
+  letter-spacing: 2px;
+}
+
+.card-links a {
+color : white;
+}
+
+.card-links a:hover {
+color : #000099;
 }
