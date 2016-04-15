@@ -36,6 +36,10 @@ margin-top: 15px;
   left: 10px;
 }
 
+.card-description a {
+color : white;
+}
+
 .card-links {
   position: absolute;
   bottom: 10px;

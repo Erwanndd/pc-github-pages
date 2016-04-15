@@ -1,0 +1,9 @@
+.container-grey {
+	height: 230px;
+	background-color: #eaeaea;
+	text-align: center;
+}
+
+.container-grey h1 {
+	padding-top: 15px;
+}

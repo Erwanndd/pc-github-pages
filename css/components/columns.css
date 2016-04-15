@@ -1,0 +1,12 @@
+.columns p {
+	padding-top: 20px;
+}
+
+.columns li {
+	padding-top: 20px;
+}
+
+.columns a {
+	color: black;
+	text-decoration: underline;
+}
