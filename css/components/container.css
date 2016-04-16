@@ -1,9 +1,12 @@
 .container-grey {
-	height: 230px;
 	background-color: #eaeaea;
+}
+
+.container-icons {
+	height: 230px;
 	text-align: center;
 }
 
-.container-grey h1 {
+.container-icons h1 {
 	padding-top: 15px;
 }
