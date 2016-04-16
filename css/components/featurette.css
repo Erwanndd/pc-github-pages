@@ -1,6 +1,7 @@
 .featurette {
 	margin-top: 25px;
 	position:relative;
+	overflow: hidden;
 }
 
 .padding-bottom {

@@ -1,7 +1,10 @@
 .corner-ribbon {
 	width: 400px;
+	padding-left: 90px;
 	z-index: 1;
 	text-align: center;
+	line-height: 20px;
+	letter-spacing: 1px;
 	background-color: #ED4850;
 	color:white;
 	position: absolute;
