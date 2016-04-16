@@ -1,0 +1,16 @@
+.corner-ribbon {
+	width: 400px;
+	z-index: 1;
+	text-align: center;
+	background-color: #ED4850;
+	color:white;
+	position: absolute;
+	top: 25px;
+    right: -100px;
+    left: auto;
+  	-webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+}

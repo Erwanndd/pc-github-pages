@@ -12,6 +12,7 @@
 @import url("components/columns.css");
 @import url("components/container.css");
 @import url("components/featurette.css");
+@import url("components/corner-ribbon.css");
 
 /* --- Fonts --- */
 body {
