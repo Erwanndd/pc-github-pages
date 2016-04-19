@@ -1,0 +1,30 @@
+.navbar-main {
+  background-color: #5F1965;
+  font-size: 15px;
+}
+
+.navbar-main .navbar-brand,
+.navbar-main .navbar-nav > li > a {
+  color: white;
+  line-height: 40px;
+}
+
+.navbar-main .navbar-nav > li > a:hover,
+.navbar-main .navbar-nav > li > a:active,
+.navbar-main .navbar-nav > li > a:focus,
+.navbar-main .navbar-nav > .open > a,
+.navbar-main .navbar-nav > .open > a:hover,
+.navbar-main .navbar-nav > .open > a:focus {
+  color: #d8d8d8;
+}
+
+.navbar-main .navbar-brand:hover,
+.navbar-main .navbar-brand:active,
+.navbar-main .navbar-brand:focus {
+  color: white;
+}
+
+.navbar-main .navbar-right{
+	font-size: 14px;
+}
+
