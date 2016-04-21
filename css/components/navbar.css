@@ -1,6 +1,7 @@
 .navbar-main {
-  background-color: #5F1965;
+  background-color: #1a2b40;
   font-size: 15px;
+  border: none;
 }
 
 .navbar-main .navbar-brand,
@@ -15,7 +16,7 @@
 .navbar-main .navbar-nav > .open > a,
 .navbar-main .navbar-nav > .open > a:hover,
 .navbar-main .navbar-nav > .open > a:focus {
-  color: #d8d8d8;
+  color: #375c89;
 }
 
 .navbar-main .navbar-brand:hover,
@@ -24,7 +25,9 @@
   color: white;
 }
 
-.navbar-main .navbar-right{
-	font-size: 14px;
+.navbar-main p {
+	margin-top: 25px;
+	font-weight: bold;
+	color:white !important;
 }
 
