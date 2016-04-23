@@ -4,6 +4,19 @@
 	overflow: hidden;
 }
 
+.featurette h2 {
+	font-size: 20px;
+}
+
+.featurette p {
+	font-size: 18px;
+}
+
+.image-featurette {
+	height:250px;
+	width: 450px;
+}
+
 .padding-bottom {
 	padding-bottom: 25px;
 }
