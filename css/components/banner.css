@@ -10,15 +10,16 @@
 }
 
 .banner h1 {
-  font-size: 40px;
+  font-size: 30px;
   font-weight: lighter;
-  margin-bottom: 30px;
+  margin-top: 70px;
+  margin-bottom: 20px;
 }
 
 .banner p {
   font-size: 25px;
   font-weight: lighter;
-  margin-bottom: 35px;
+  margin-bottom: 40px;
 }
 
 .banner-small {

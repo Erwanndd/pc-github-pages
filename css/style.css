@@ -13,6 +13,7 @@
 @import url("components/container.css");
 @import url("components/featurette.css");
 @import url("components/corner-ribbon.css");
+@import url("components/carousel.css");
 
 /* --- Fonts --- */
 body {
@@ -21,6 +22,12 @@ body {
 }
 h1, h2, h3 {
   font-family: "Montserrat", "sans-serif";
+}
+
+h1 {
+	font-size: 25px;
+  	margin-top: 30px;
+  	margin-bottom: 30px;
 }
 
 html, body {
