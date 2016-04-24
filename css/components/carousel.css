@@ -1,3 +1,13 @@
+.carousel-inner {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
 .carousel {
   background-size: cover;
+}
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none;
+    color:#1a2b40;
 }
