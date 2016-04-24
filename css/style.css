@@ -30,6 +30,10 @@ h1 {
   	margin-bottom: 30px;
 }
 
+.text-blue{
+  color: #1a2b40;
+}
+
 html, body {
     height: 100%;
 }
