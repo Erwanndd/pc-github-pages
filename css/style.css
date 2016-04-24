@@ -14,6 +14,7 @@
 @import url("components/featurette.css");
 @import url("components/corner-ribbon.css");
 @import url("components/carousel.css");
+@import url("vendor/cheat-sheet.css");
 
 /* --- Fonts --- */
 body {
