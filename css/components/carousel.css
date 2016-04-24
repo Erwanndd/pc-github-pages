@@ -1,10 +1,20 @@
 .carousel-inner {
-	margin-top: 40px;
-	margin-bottom: 40px;
+	margin-top: 50px;
+	margin-bottom: 20px;
+	height:470px;
 }
 
 .carousel {
   background-size: cover;
+}
+
+.carousel-indicators li {
+    background: #1a2b40;
+    border:none;
+}
+
+.carousel-indicators .active {
+    background: #1a2b40;
 }
 
 .carousel-control.left, .carousel-control.right {
