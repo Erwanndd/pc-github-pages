@@ -1,13 +1,14 @@
 .btn-dark {
 background: #1a2b40;
 font-size: 20px;
-border: #5F1965;
+border: 2px solid white;
 border-radius: 5px;
 padding: 15px 25px;
 }
 
 .btn-dark:hover {
 background: #213752;
+border: 2px solid white;
 }
 
 .btn-navbar {
