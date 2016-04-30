@@ -9,7 +9,6 @@
 @import url("components/navbar.css");
 @import url("components/features.css");
 @import url("components/avatar.css");
-@import url("components/container.css");
 @import url("components/featurette.css");
 @import url("components/corner-ribbon.css");
 @import url("components/carousel.css");
@@ -27,12 +26,16 @@ h1, h2, h3 {
 
 h1 {
 	font-size: 25px;
-  	margin-top: 30px;
-  	margin-bottom: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 html, body {
     height: 100%;
+}
+
+.background-grey {
+  background-color: #eaeaea;
 }
 
 *, *:before, *:after {

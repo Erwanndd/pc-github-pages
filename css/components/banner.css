@@ -36,6 +36,17 @@
   justify-content: space-around;
 }
 
-.margin-right {
-  margin-left: 50px;
+.banner-grey {
+  background-color: #eaeaea;
+  height: 200px;
+}
+
+.banner-grey h1 {
+  padding-top: 20px;
+}
+
+.banner-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
