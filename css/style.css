@@ -9,7 +9,6 @@
 @import url("components/navbar.css");
 @import url("components/features.css");
 @import url("components/avatar.css");
-@import url("components/columns.css");
 @import url("components/container.css");
 @import url("components/featurette.css");
 @import url("components/corner-ribbon.css");
@@ -30,10 +29,6 @@ h1 {
 	font-size: 25px;
   	margin-top: 30px;
   	margin-bottom: 30px;
-}
-
-.text-blue{
-  color: #00A6ED;
 }
 
 html, body {
